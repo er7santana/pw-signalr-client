@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWSignalrClient", "PWSignalrClient\PWSignalrClient.csproj", "{155EE95A-3CB0-43F8-B234-BED77597D4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155EE95A-3CB0-43F8-B234-BED77597D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155EE95A-3CB0-43F8-B234-BED77597D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155EE95A-3CB0-43F8-B234-BED77597D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155EE95A-3CB0-43F8-B234-BED77597D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2C7E1B-D08F-4302-BE75-9F2E7E6AC55B}
+	EndGlobalSection
+EndGlobal
